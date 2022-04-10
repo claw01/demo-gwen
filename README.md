@@ -1,3 +1,3 @@
 # Demo 
 
-Demo repo created by following Gwen youtube video.
+Demo created by following Gwen youtube video.
