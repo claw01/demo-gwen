@@ -6,3 +6,7 @@ Added some text.
 ## Subheader
 
 This is a subheader.
+
+## Local development
+
+open index.html in your browser!!!
