@@ -9,4 +9,4 @@ This is a subheader.
 
 ## Local development
 
-open index.html in browser.
+open index.html in your browser!!!
